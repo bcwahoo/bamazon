@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework Assignment #11:  Bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcwahoo/bamazon.git"
+  },
+  "keywords": [
+    "blessing"
+  ],
+  "author": "Blessing C. Nwaohuocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcwahoo/bamazon/issues"
+  },
+  "homepage": "https://github.com/bcwahoo/bamazon#readme",
+  "dependencies": {
+    "@lvchengbin/cli-table": "0.0.0",
+    "console.table": "^0.10.0",
+    "eslint-config-google": "^0.14.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
